@@ -1,2 +1,2 @@
-# Omnify-intern-Assignment-
+# Omnify-intern-Assignment
 Intern assessment project 
